@@ -11,4 +11,3 @@ export async function fetchMessage() {
       return 'Error fetching message';
     }
   }
-  
